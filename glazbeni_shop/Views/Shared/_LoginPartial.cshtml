@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNet.Identity
+
+<ul class="nav navbar-nav navbar-right">
+    <li>
+        @if (HttpContext.Current.Session["LoggedIme"] == null && HttpContext.Current.Session["ID"] == null)
+        {
+            @Html.ActionLink("Registracija", "Registracija", "Korisniks");
+        }
+    </li>
+    <li>
+        @if (HttpContext.Current.Session["LoggedIme"] == null && HttpContext.Current.Session["ID"] == null)
+        {
+            @Html.ActionLink("Log in", "Login", "Korisniks");
+        }
+    </li>
+    <li>
+        @if (HttpContext.Current.Session["LoggedIme"] != null && HttpContext.Current.Session["ID"] != null)
+        {
+            @Html.ActionLink("Dobrodošli, " + HttpContext.Current.Session["LoggedIme"] + "!", "Details", "Korisniks", new { id = HttpContext.Current.Session["ID"] }, null);
+        }
+    </li>
+    <li>
+        @if (HttpContext.Current.Session["LoggedIme"] != null && HttpContext.Current.Session["ID"] != null)
+        {
+            @Html.ActionLink("Logout", "Logout", "Korisniks");
+
+        }
+    </li>
+</ul>

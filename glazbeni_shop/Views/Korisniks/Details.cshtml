@@ -1,0 +1,58 @@
+﻿@model glazbeni_shop.Models.Korisnik
+
+@{
+    ViewBag.Title = "Detalji";
+}
+
+<h2>Detalji</h2>
+
+<div>
+    <h4>Korisnik</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.prezime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prezime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.mail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.mjesto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mjesto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ulica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ulica)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idkorisnik }) 
+    
+</p>

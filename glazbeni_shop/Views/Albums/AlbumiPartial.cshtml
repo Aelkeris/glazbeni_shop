@@ -1,0 +1,30 @@
+﻿@model IEnumerable<glazbeni_shop.Models.Album>
+@using glazbeni_shop.Models
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nazivIzvodaca.nazivizvodaca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.imealbuma)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nazivZanra.imezanr)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cijena) HRK
+        </td>
+        <td>
+            <img src="~/Slike/@Url.Content(item.slika)" alt="Image" width="100" />
+        </td>
+        <td>
+            @Html.ActionLink("Detalji", "Details", new { id = item.idalbum })
+            @if (HttpContext.Current.Session["ID"] != null)
+            {
+                <br />
+                @Html.ActionLink("Dodaj u košaricu", "Kupi", new { id = item.idalbum })
+            }
+        </td>
+    </tr>
+}

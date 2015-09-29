@@ -1,0 +1,71 @@
+﻿@model glazbeni_shop.Models.Album
+
+@{
+    ViewBag.Title = "Detalji";
+}
+
+
+<div>
+    <h2>@Html.DisplayFor(model => model.nazivIzvodaca.nazivizvodaca) - @Html.DisplayFor(model => model.imealbuma)</h2>
+    <table>
+        <tr>
+            <td><img src="~/Slike/@Url.Content(Model.slika)" alt="Image" width="300" /></td>
+            <td>
+                <dl class="dl-horizontal">
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.imealbuma)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.imealbuma)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.zanr)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nazivZanra.imezanr)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.cijena)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.cijena) HRK
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.izvodac)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nazivIzvodaca.nazivizvodaca)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.opis)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.opis)
+                    </dd>
+
+                </dl>
+            </td>
+        </tr>
+    </table>
+    <hr />
+
+</div>
+<p>
+    @if (HttpContext.Current.Session["admin"] != null)
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.idalbum })
+        <br />
+    }
+    
+    @Html.ActionLink("Povratak na listu", "Index")
+</p>

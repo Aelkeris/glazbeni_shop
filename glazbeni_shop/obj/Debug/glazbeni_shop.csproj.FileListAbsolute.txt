@@ -1,0 +1,234 @@
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.dll.config
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.pdb
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Antlr3.Runtime.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\EntityFramework.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\MySql.Data.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Newtonsoft.Json.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Owin.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.Helpers.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.Mvc.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.Optimization.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.Razor.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\WebGrease.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.Helpers.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.Mvc.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.Optimization.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.Razor.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Antlr3.Runtime.pdb
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Newtonsoft.Json.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\EntityFramework.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\EntityFramework.SqlServer.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.pdb
+C:\Users\Zoran\documents\visual studio 2013\Projects\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.dll.config
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.pdb
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\EntityFramework.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\MySql.Data.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\MySql.Data.Entity.EF6.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Owin.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\WebGrease.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\EntityFramework.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.dll
+C:\Users\student\Desktop\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.pdb
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\itextsharp.dll
+C:\Users\Zoran\Documents\Visual Studio 2013\Projects\glazbeni_shop\glazbeni_shop\bin\itextsharp.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.dll.config
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.pdb
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Antlr3.Runtime.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\EntityFramework.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\EntityFramework.SqlServer.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\itextsharp.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\MySql.Data.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\MySql.Data.Entity.EF6.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Newtonsoft.Json.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Owin.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Helpers.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Mvc.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Optimization.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Razor.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\WebGrease.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\itextsharp.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Helpers.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Mvc.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Optimization.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.Razor.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Antlr3.Runtime.pdb
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Newtonsoft.Json.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\EntityFramework.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\EntityFramework.SqlServer.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.csprojResolveAssemblyReference.cache
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.dll
+C:\Users\isus550\Desktop\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.pdb
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.dll.config
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\glazbeni_shop.pdb
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\EntityFramework.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\itextsharp.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\MySql.Data.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\MySql.Data.Entity.EF6.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Owin.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\WebGrease.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\itextsharp.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\EntityFramework.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.dll
+C:\Users\student\Desktop\MEVsic projekt\glazbeni_shop\glazbeni_shop\obj\Debug\glazbeni_shop.pdb

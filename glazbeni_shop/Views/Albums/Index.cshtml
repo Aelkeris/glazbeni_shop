@@ -1,0 +1,75 @@
+﻿@model IEnumerable<glazbeni_shop.Models.Album>
+@using glazbeni_shop.Models
+
+@{
+    ViewBag.Title = "Popis svih albuma";
+}
+
+@{
+    AjaxOptions ajaxOpcije = new AjaxOptions
+    {
+        UpdateTargetId = "popisAlbuma",
+        InsertionMode = InsertionMode.Replace,
+        LoadingElementId = "statusPretrazivanja",
+        HttpMethod = "Get"
+    };
+}
+
+<h2>Popis svih albuma</h2>
+
+<p>
+    @if (HttpContext.Current.Session["admin"] != null)
+    {
+        @Html.ActionLink("Dodaj novi", "Create")
+    }
+    
+</p>
+@using (Ajax.BeginForm("AlbumiPartial", "Albums", ajaxOpcije, new { @class = "form-inline", id = "form1" }))
+{
+    <div class="form-group">
+        @Html.Label("Izvođač", new { @class = "sr-only" })
+        @Html.TextBox("izvodac", "", new { @class = "form-control", placeholder = "Izvođač", onkeydown = "OsvjeziListu()" })
+    </div>
+    
+    <div class="form-group">
+        @Html.Label("Naziv", new { @class = "sr-only" })
+        @Html.TextBox("naziv", "", new { @class = "form-control", placeholder = "Naziv", onkeydown = "OsvjeziListu()" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        <span class="glyphicon glyphicon-search" aria-hidden="true"></span> Traži
+    </button>
+    <label id="statusPretrazivanja" class="label label-info" style="display:none">Pretražujem...</label>
+}
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.izvodac)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.imealbuma)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.zanr)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cijena)
+            </th>
+            <th>
+
+            </th>
+            <th>Akcije</th>
+        </tr>
+    </thead>
+
+    <tbody id="popisAlbuma">
+        @Html.Action("AlbumiPartial", new { izvodac = "", naziv = "" })
+    </tbody>
+</table>
+<script type="text/javascript">
+    function OsvjeziListu() {
+        $('#form1').submit();
+    }
+</script>

@@ -1,0 +1,77 @@
+﻿@using glazbeni_shop.Models
+@model glazbeni_shop.Models.Album
+
+@{
+    ViewBag.Title = "Početna stranica";
+}
+
+<div class="jumbotron">
+    <h1>MEVsic glazbeni shop</h1>
+    <p class="lead">Glazbeni web shop nove generacije!</p>
+</div>
+
+<div>
+    <h1><span class="label label-primary">NOVO U PONUDI!</span></h1>
+    <table class="table-condensed">
+        <tr>
+            <td>
+                <img class="thumbnail" src="~/Slike/@Url.Content(Model.slika)" alt="Image" width="250" />
+            </td>
+            <td>
+                <dl class="dl-horizontal">
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.imealbuma)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.imealbuma)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.izvodac)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nazivIzvodaca.nazivizvodaca)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.zanr)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nazivZanra.imezanr)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.cijena)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.cijena) kn
+                    </dd>
+
+                    <dt>
+
+                    </dt>
+
+                    <dd>
+                        @if (Session["LoggedIme"] != null)
+                        {
+                            @Html.ActionLink("Dodaj u košaricu", "Kupi", "Albums", new { id = Model.idalbum }, null)
+                        }
+                    </dd>
+                </dl>
+            </td>
+            <td style="padding-left:200px">
+                <h2>Pregled albuma</h2>
+                <p>
+                    Ovdje možete pregledati cijelu našu ponudu.
+                </p>
+                <p>@Html.ActionLink("Više", "Index", "Albums", "", new { @class = "btn btn-primary btn-lg", role = "button" })</p>
+            </td>
+        </tr>
+    </table>
+    <hr />
+</div>

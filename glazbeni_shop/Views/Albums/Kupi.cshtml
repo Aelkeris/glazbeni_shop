@@ -1,0 +1,82 @@
+﻿@model IEnumerable<glazbeni_shop.Models.Album>
+@using glazbeni_shop.Models
+
+@{
+    ViewBag.Title = "Popis svih albuma";
+}
+
+<h2>Košarica</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.izvodac)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.imealbuma)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.zanr)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cijena)
+        </th>
+        <th>
+
+        </th>
+        <th>
+
+        </th>
+    </tr>
+
+    @foreach (Album item in (List<Album>)Session["kosarica"])
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nazivIzvodaca.nazivizvodaca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.imealbuma)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nazivZanra.imezanr)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cijena)
+            </td>
+            <td>
+                <img src="~/Slike/@Url.Content(item.slika)" alt="Image" width="100" />
+            </td>
+            <td>
+                @Html.ActionLink("Obriši", "Brisi", new { id = item.idalbum })
+            </td>
+        </tr>
+    }
+</table>
+@Html.ActionLink("Nastavi kupovinu", "Index")
+
+<br />
+<h4>Molimo vas da unesete podatke o uplati</h4>
+<hr />
+<div class="form-group">
+    @Html.Label("Broj kartice")
+    <div >
+        @Html.TextBox("Broj kartice")
+    </div>
+</div>
+<div class="form-group">
+    @Html.Label("Sigurnosni broj")
+    <div>
+        @Html.TextBox("Sigurnosni broj")
+    </div>
+    <br/>
+    <div>
+        @Html.ActionLink("Završi sa kupovinom", "Ispisi", new 
+        {
+            izvodac = Request.QueryString["izvodac"],
+            naziv = Request.QueryString["naziv"]
+        }, new { target = "blank" })
+        
+    </div>
+</div>
